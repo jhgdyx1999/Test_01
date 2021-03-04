@@ -112,7 +112,7 @@ public class Test {
                 } else {
                     builder.append(charList.get(j));
                 }
-            }
+            }//11111111
 
         }
 
